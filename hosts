@@ -1,0 +1,545 @@
+# Последнее обновление: 15 октября 2025 в 20:00
+
+127.0.0.1       localhost
+::1             ip6-localhost
+
+# 4pda (доступ к разделу "Безопасность в сети") 🛡️
+45.81.252.72    cs11a0a.4pda.ws
+45.95.233.23    4pda.to
+54.36.104.75    cs2c9f.4pda.ws
+64.188.98.242   4pda.to
+108.181.60.131  4pda.to
+108.181.60.131  4pda.ws
+108.181.60.131  app.4pda.to  # Использует нестандартный TCP-порт 993, может потребоваться настройка прокси на уровне порта
+108.181.60.131  appbk.4pda.to
+108.181.60.131  s.4pda.to
+141.94.143.110  cs3b2e.4pda.ws
+185.234.59.26   cs7f6c.4pda.ws
+217.182.194.171 cs4a0d.4pda.ws
+
+# Akamai 🌐
+23.55.244.177   a23-55-244-177.deploy.static.akamaitechnologies.com
+
+# Brave 🤖
+89.108.98.20    ai-chat.bsg.brave.com
+94.131.119.85   ai-chat.bsg.brave.com
+185.250.151.50  ai-chat.bsg.brave.com
+
+# Broadcom 🌐
+185.246.223.127 profile.broadcom.com
+
+# Canva 🎨
+50.7.85.222     www.canva.com
+
+# ChatGPT, OpenAI 🤖
+45.95.233.23    operator.chatgpt.com
+204.12.192.221  operator.chatgpt.com
+185.246.223.127 ab.chatgpt.com
+204.12.192.222  ab.chatgpt.com
+185.246.223.127 api.openai.com
+204.12.192.222  api.openai.com
+185.246.223.127 auth.openai.com
+204.12.192.222  auth.openai.com
+185.246.223.127 auth0.openai.com
+204.12.192.222  auth0.openai.com
+185.246.223.127 cdn.auth0.com
+204.12.192.222  cdn.auth0.com
+185.246.223.127 cdn.oaistatic.com
+204.12.192.222  cdn.oaistatic.com
+185.246.223.127 chatgpt.com
+204.12.192.222  chatgpt.com
+185.246.223.127 files.oaiusercontent.com
+204.12.192.222  files.oaiusercontent.com
+204.12.192.222  openai.com
+185.246.223.127 platform.openai.com
+204.12.192.222  platform.openai.com
+185.246.223.127 sora.chatgpt.com
+204.12.192.222  sora.chatgpt.com
+185.246.223.127 sora.com
+204.12.192.222  sora.com
+185.246.223.127 tcr9i.chat.openai.com
+204.12.192.222  tcr9i.chat.openai.com
+185.246.223.127 videos.openai.com
+204.12.192.222  videos.openai.com
+185.246.223.127 webrtc.chatgpt.com
+204.12.192.222  webrtc.chatgpt.com
+204.12.192.219  android.chat.openai.com
+204.12.192.222  android.chat.openai.com
+
+# Chess.com ♟️
+204.12.192.222  chess.com
+204.12.192.222  www.chess.com
+
+# Cimg 🌐
+204.12.192.220  cimg.eu
+
+# Claude 🤖
+185.246.223.127 api.anthropic.com
+185.246.223.127 auth.anthropic.com
+185.246.223.127 claude.ai
+204.12.192.222  claude.ai
+185.246.223.127 console.anthropic.com
+204.12.192.220  console.anthropic.com
+
+# Clash Royale, Clash of Clans, Brawl Stars 🎮
+3.165.113.14    accounts.supercell.com
+45.95.233.23    accounts.supercell.com
+204.12.192.222  accounts.supercell.com
+3.160.212.81    cdn.id.supercell.com
+185.246.223.127 cdn.id.supercell.com
+108.157.194.81  clashofclans.inbox.supercell.com
+185.246.223.127 clashofclans.inbox.supercell.com
+18.239.69.129   game-assets.brawlstarsgame.com
+185.246.223.127 game-assets.brawlstarsgame.com
+3.162.38.39     game-assets.clashofclans.com
+185.246.223.127 game-assets.clashofclans.com
+18.66.195.96    game-assets.clashroyaleapp.com
+185.246.223.127 game-assets.clashroyaleapp.com
+179.43.168.109  game.brawlstarsgame.com
+185.246.223.127 game.brawlstarsgame.com
+45.95.233.23    game.clashroyaleapp.com
+51.158.190.98   game.clashroyaleapp.com
+45.95.233.23    game.mocogame.com
+64.188.98.242   gamea.clashofclans.com
+108.61.167.26   game.squadbustersgame.com
+18.172.112.81   security.id.supercell.com
+185.246.223.127 security.id.supercell.com
+185.246.223.127 store.supercell.com
+204.12.192.222  store.supercell.com
+
+# Codeium 💻
+50.7.87.85      codeium.com
+50.7.85.219     inference.codeium.com
+
+# DeepL 🌐
+185.246.223.127 api-free.deepl.com
+204.12.192.222  api-free.deepl.com
+185.246.223.127 auth.deepl.com
+204.12.192.222  auth.deepl.com
+185.246.223.127 backend.deepl.com
+204.12.192.222  backend.deepl.com
+185.246.223.127 clearance.deepl.com
+204.12.192.222  clearance.deepl.com
+185.246.223.127 deepl.com
+204.12.192.222  deepl.com
+185.246.223.127 dict.deepl.com
+204.12.192.222  dict.deepl.com
+185.246.223.127 errortracking.deepl.com
+204.12.192.222  errortracking.deepl.com
+185.246.223.127 experimentation-grpc.deepl.com
+204.12.192.222  experimentation-grpc.deepl.com
+185.246.223.127 experimentation.deepl.com
+204.12.192.222  experimentation.deepl.com
+185.246.223.127 ita-free.app.deepl.com
+204.12.192.222  ita-free.app.deepl.com
+185.246.223.127 ita-free.www.deepl.com
+204.12.192.222  ita-free.www.deepl.com
+185.246.223.127 login-wall.deepl.com
+204.12.192.222  login-wall.deepl.com
+185.246.223.127 oneshot-free.www.deepl.com
+204.12.192.222  oneshot-free.www.deepl.com
+185.246.223.127 ott.deepl.com
+204.12.192.222  ott.deepl.com
+185.246.223.127 s.deepl.com
+204.12.192.222  s.deepl.com
+185.246.223.127 shield.deepl.com
+204.12.192.222  shield.deepl.com
+185.246.223.127 write-free.www.deepl.com
+204.12.192.222  write-free.www.deepl.com
+185.246.223.127 www.deepl.com
+204.12.192.222  www.deepl.com
+185.246.223.127 www2.deepl.com
+204.12.192.222  www2.deepl.com
+185.246.223.127 w.deepl.com
+204.12.192.219  w.deepl.com
+
+# Deezer 🎵
+185.246.223.127 deezer.com
+204.12.192.220  deezer.com
+185.246.223.127 dzcdn.net
+204.12.192.220  dzcdn.net
+185.246.223.127 payment.deezer.com
+204.12.192.220  payment.deepl.com
+185.246.223.127 www.deezer.com
+204.12.192.220  www.deezer.com
+
+# Dell 💻
+185.246.223.127 www.dell.com
+204.12.192.219  www.dell.com
+
+# Discord 💬
+204.12.192.222  discord.com
+204.12.192.222  discordapp.com
+
+# DNS Malw Link 🌐
+45.95.233.23    test.dns.malw.link
+
+# Dyson 🌬️
+45.95.233.23    www.dyson.com
+45.95.233.23    www.dyson.fr
+
+# ElevenLabs 🤖
+185.246.223.127 api.elevenlabs.io
+204.12.192.222  api.elevenlabs.io
+185.246.223.127 api.us.elevenlabs.io
+204.12.192.222  api.us.elevenlabs.io
+185.246.223.127 elevenlabs.io
+204.12.192.222  elevenlabs.io
+185.246.223.127 elevenreader.io
+204.12.192.222  elevenreader.io
+185.246.223.127 help.elevenlabs.io
+204.12.192.222  help.elevenlabs.io
+
+# Facebook, Instagram 📸
+157.240.245.174 b.i.instagram.com
+157.240.245.174 help.instagram.com
+157.240.245.174 instagram.com
+157.240.245.174 www.instagram.com
+157.240.245.174 xxinstagram-p42-shv-01-bom1.fbcdn.net
+157.240.245.174 z-p42-chat-e2ee-ig.facebook.com
+
+# Fitbit 🏃
+185.246.223.127 api.fitbit.com
+185.246.223.127 fitbit.google.com
+185.246.223.127 fitbit-pa.googleapis.com
+185.246.223.127 fitbitvestibuleshim-pa.googleapis.com
+204.12.192.219  api.fitbit.com
+204.12.192.219  fitbit.google.com
+204.12.192.219  fitbit-pa.googleapis.com
+204.12.192.219  fitbitvestibuleshim-pa.googleapis.com
+
+# Gemini, Gemini API, AI Studio, Google Labs, NotebookLM, YouTube 🌐
+64.233.164.132  yt4.ggpht.com
+64.233.164.198  yt3.ggpht.com
+134.0.118.88    aisandbox-pa.googleapis.com
+204.12.192.219  aisandbox-pa.googleapis.com
+134.0.118.88    alkalimakersuite-pa.clients6.google.com
+204.12.192.221  alkalimakersuite-pa.clients6.google.com
+134.0.118.88    assistant-s3-pa.googleapis.com
+204.12.192.221  assistant-s3-pa.googleapis.com
+204.12.192.222  ai.google.dev
+134.0.118.88    aistudio.google.com
+204.12.192.222  aistudio.google.com
+185.246.223.127 aitestkitchen.withgoogle.com
+204.12.192.222  aitestkitchen.withgoogle.com
+204.12.192.222  android.apis.google.com
+204.12.192.222  android.googleapis.com
+204.12.192.222  apis.google.com
+204.12.192.222  assistant-s3-pa.googleapis.com
+204.12.192.222  assistantfrontend-pa.googleapis.com
+204.12.192.222  developerprofiles-pa.googleapis.com
+204.12.192.222  firebaseinstallations.googleapis.com
+204.12.192.222  geller-pa.googleapis.com
+185.246.223.127 gemini.google.com
+204.12.192.222  gemini.google.com
+134.0.118.88    generativelanguage.googleapis.com
+204.12.192.222  generativelanguage.googleapis.com
+185.246.223.127 jules.google.com
+204.12.192.222  jules.google.com
+185.246.223.127 labs.google
+204.12.192.222  labs.google
+204.12.192.222  lamssettings-pa.googleapis.com
+185.246.223.127 notebooklm.google
+204.12.192.222  notebooklm.google
+185.246.223.127 notebooklm.google.com
+204.12.192.222  notebooklm.google.com
+204.12.192.222  notifications-pa.googleapis.com
+185.246.223.127 o.pki.goog
+204.12.192.222  o.pki.goog
+204.12.192.222  people-pa.clients6.google.com
+134.0.118.88    proactivebackend-pa.googleapis.com
+204.12.192.222  proactivebackend-pa.googleapis.com
+204.12.192.222  searchnotifications-pa.googleapis.com
+204.12.192.222  speechs3proto2-pa.googleapis.com
+185.246.223.127 stitch.withgoogle.com
+204.12.192.222  stitch.withgoogle.com
+204.12.192.222  taskassist-pa.googleapis.com
+204.12.192.222  update.googleapis.com
+204.12.192.222  waa-pa.clients6.google.com
+134.0.118.88    webchannel-alkalimakersuite-pa.clients6.google.com
+204.12.192.222  webchannel-alkalimakersuite-pa.clients6.google.com
+
+# Genius 🎵
+204.12.192.222  genius.com
+
+# GitHub Copilot 💻
+50.7.87.84      api.github.com
+185.246.223.127 api.github.com
+204.12.192.222  api.github.com
+185.246.223.127 api.individual.githubcopilot.com
+204.12.192.222  api.individual.githubcopilot.com
+185.246.223.127 proxy.individual.githubcopilot.com
+204.12.192.222  proxy.individual.githubcopilot.com
+185.250.151.50  copilot-proxy.githubusercontentusercontent.com
+185.250.151.50  githubcopilot.com
+
+# Grok 🤖
+185.246.223.127 accounts.x.ai
+204.12.192.222  accounts.x.ai
+185.246.223.127 assets.grok.com
+204.12.192.222  assets.grok.com
+185.246.223.127 grok.com
+204.12.192.222  grok.com
+
+# GuidedHacking 💻
+185.246.223.127 guidedhacking.com
+
+# Guilded 💬
+204.12.192.219  guilded.gg
+204.12.192.219  www.guilded.gg
+
+# Imgur 🖼️
+204.12.192.220  api.imgur.com
+
+# Intel 💻
+185.246.223.127 www.intel.com
+204.12.192.222  www.intel.com
+
+# JetBrains 💻
+50.7.85.221     datalore.jetbrains.com
+107.150.34.100  plugins.jetbrains.com
+185.246.223.127 download.jetbrains.com
+204.12.192.222  download.jetbrains.com
+
+# Manus 🌐
+64.188.98.242   api.manus.im
+
+# Microsoft Copilot, Microsoft Rewards, Xbox, Xbox Cloud Gaming 🎮
+45.95.233.23    rewards.bing.com
+204.12.192.221  rewards.bing.com
+185.246.223.127 copilot.microsoft.com
+204.12.192.222  copilot.microsoft.com
+185.246.223.127 edgeservices.bing.com
+204.12.192.222  edgeservices.bing.com
+185.246.223.127 sydney.bing.com
+204.12.192.222  sydney.bing.com
+50.7.87.86      xgpuweb.gssv-play-prod.xboxlive.com
+185.246.223.127 xgpuweb.gssv-play-prod.xboxlive.com
+204.12.192.222  xgpuweb.gssv-play-prod.xboxlive.com
+50.7.87.86      xgpuwebf2p.gssv-play-prod.xboxlive.com
+185.246.223.127 xgpuwebf2p.gssv-play-prod.xboxlive.com
+204.12.192.222  xgpuwebf2p.gssv-play-prod.xboxlive.com
+78.40.217.193   xsts.auth.xboxlive.com
+185.246.223.127 xsts.auth.xboxlive.com
+204.12.192.222  xsts.auth.xboxlive.com
+
+# Navalny 📢
+45.95.233.23    navalny.com
+
+# Notion 📝
+185.246.223.127 www.notion.so
+204.12.192.222  www.notion.so
+
+# NTC Party 🌐
+130.255.77.28   ntc.party
+
+# NVIDIA 💻
+185.246.223.127 developer.nvidia.com
+204.12.192.220  developer.nvidia.com
+
+# OnePlus Updater 📱
+104.69.222.66   oxygenos.oneplus.net
+
+# OpenBittorrent 🌐
+52.223.13.41    tracker.openbittorrent.com
+
+# Parsec 🎮
+107.150.34.99   builds.parsec.app
+
+# PostHog 🌐
+45.95.233.23    eu.posthog.com
+
+# Pricing Day 🌐
+45.95.233.23    pricing.day
+
+# Proton Mail 📧
+3.66.189.153    mail.proton.me
+3.66.189.153    protonmail.com
+
+# Qwant 🌐
+185.246.223.127 www.qwant.com
+
+# Rutor 🌐
+172.64.33.155   rutor.info
+173.245.59.155  rutor.is
+
+# SaveRuData 🌐
+104.21.25.93    saverudata.info
+172.67.133.246  saverudata.info
+104.21.60.169   saverudata.net
+172.67.198.109  saverudata.net
+
+# SoundCloud 🎵
+138.201.204.218 sndcdn.com
+138.201.204.218 soundcloud.cloud
+138.201.204.218 soundcloud.com
+204.12.192.222  soundcloud.com
+
+# Spotify 🎵
+45.95.233.23    open.spotify.com
+204.12.192.221  open.spotify.com
+185.246.223.127 accounts.spotify.com
+204.12.192.222  accounts.spotify.com
+185.246.223.127 aet.spotify.com
+204.12.192.222  aet.spotify.com
+185.246.223.127 ap-gew1.spotify.com
+204.12.192.222  ap-gew1.spotify.com
+185.246.223.127 api-partner.spotify.com
+204.12.192.222  api-partner.spotify.com
+185.246.223.127 api.spotify.com
+204.12.192.222  api.spotify.com
+185.246.223.127 appresolve.spotify.com
+204.12.192.222  appresolve.spotify.com
+185.246.223.127 encore.scdn.co
+204.12.192.222  encore.scdn.co
+185.246.223.127 gew1-spclient.spotify.com
+204.12.192.222  gew1-spclient.spotify.com
+185.246.223.127 login.app.spotify.com
+204.12.192.222  login.app.spotify.com
+185.246.223.127 login5.spotify.com
+204.12.192.222  login5.spotify.com
+185.246.223.127 spclient.wg.spotify.com
+204.12.192.222  spclient.wg.spotify.com
+185.246.223.127 www.spotify.com
+204.12.192.222  www.spotify.com
+185.246.223.127 xpui.app.spotify.com
+204.12.192.222  xpui.app.spotify.com
+
+# Tailscale 🌐
+185.87.51.182   controlplane.tailscale.com
+
+# Tidal 🎵
+45.95.233.23    images.tidal.com
+204.12.192.221  images.tidal.com
+185.246.223.127 api-global.squareup.com
+204.12.192.222  api-global.squareup.com
+204.12.192.222  api.squareup.com
+185.246.223.127 api.tidal.com
+204.12.192.222  api.tidal.com
+185.246.223.127 auth.tidal.com
+204.12.192.222  auth.tidal.com
+185.246.223.127 dd.tidal.com
+204.12.192.222  dd.tidal.com
+185.246.223.127 fsu.fa.tidal.com
+204.12.192.222  fsu.fa.tidal.com
+185.246.223.127 geolocation.onetrust.com
+204.12.192.222  geolocation.onetrust.com
+185.246.223.127 link.tidal.com
+204.12.192.222  link.tidal.com
+185.246.223.127 listen.tidal.com
+204.12.192.222  listen.tidal.com
+185.246.223.127 login.tidal.com
+204.12.192.222  login.tidal.com
+185.246.223.127 resources.tidal.com
+204.12.192.222  resources.tidal.com
+
+# TikTok 📱
+50.7.85.219     www.tiktok.com  # Только для сайта (приложение определяет регион по мобильному оператору)
+127.0.0.1       dimatiktokmod.github.io
+127.0.0.1       meni19.github.io
+127.0.0.1       rezvorck.github.io
+127.0.0.1       tigr1234566.github.io
+127.0.0.1       tiktokmod.pro
+127.0.0.1       tiktokupdatez.github.io
+127.0.0.1       update.9mod.com
+
+# Trae.ai 🤖
+185.246.223.127 api-sg-central.trae.ai
+185.246.223.127 api.trae.ai
+185.246.223.127 api16-normal-alisg.mchost.guru
+185.246.223.127 trae-api-sg.mchost.guru
+
+# Tria.ge 🌐
+185.246.223.127 tria.ge
+204.12.192.220  tria.ge
+
+# Truth Social 📢
+204.12.192.219  static-assets-1.truthsocial.com
+204.12.192.219  truthsocial.com
+204.12.192.221  static-assets-1.truthsocial.com
+204.12.192.221  truthsocial.com
+
+# Twitch 📺
+45.95.233.23    gql.twitch.tv
+45.95.233.23    usher.ttvnw.net
+
+# Weather.com 🌦️
+185.246.223.127 upsx.weather.com
+204.12.192.220  upsx.weather.com
+185.246.223.127 weather.com
+204.12.192.220  weather.com
+
+# Web Archive 📚
+142.54.189.106  web.archive.org  # Блокирует от российских IP некоторые сайты
+
+# Windows 💻
+89.108.98.20    api.msn.com
+89.108.98.20    assets.msn.com
+89.108.98.20    bing.com
+89.108.98.20    bing.net
+89.108.98.20    bingapis.com
+89.108.98.20    bingclientmsa.sapphire.microsoftapp.net
+89.108.98.20    c.msn.com
+89.108.98.20    data.swiftkey.com
+89.108.98.20    edge.microsoft.com
+89.108.98.20    gateway.bingviz.microsoftapp.net
+89.108.98.20    img-s-msn-com.akamaized.net
+89.108.98.20    in.appcenter.ms
+89.108.98.20    location.microsoft.com
+89.108.98.20    mobile.events.data.microsoft.com
+89.108.98.20    prod-japaneast.access-point.cloudmessaging.edge.microsoft.com
+89.108.98.20    prod-streaming-video-msn-com.akamaized.net
+89.108.98.20    prod-switzerlandnorth.access-point.cloudmessaging.edge.microsoft.com
+89.108.98.20    prod.rewardsplatform.microsoft.com
+89.108.98.20    sapphire.api.microsoftapp.net
+89.108.98.20    self.events.data.microsoft.com
+89.108.98.20    ssl.bing.com
+89.108.98.20    superapp.msn.com
+89.108.98.20    swiftkey.com
+89.108.98.20    th.bing.com
+89.108.98.20    www.bingapis.com
+89.108.98.20    www.msn.com
+
+### Блокировка плохих сайтов
+# Скримеры — сайты с шокирующим или нежелательным контентом
+0.0.0.0         only-fans.me
+0.0.0.0         only-fans.uk
+0.0.0.0         onlyfans.wtf
+# IP Logger'ы — сайты, собирающие пользовательские данные
+0.0.0.0         2no.co
+0.0.0.0         bc.ax
+0.0.0.0         ed.tc
+0.0.0.0         ezstat.ru
+0.0.0.0         grabify.org
+0.0.0.0         iplis.ru
+0.0.0.0         iplog.co
+0.0.0.0         iplogger.org
+0.0.0.0         maper.info
+0.0.0.0         wl.gl
+0.0.0.0         yip.su
+# Мусор/Реклама — рекламные и аналитические сервисы
+0.0.0.0         adfox.yandex.ru
+0.0.0.0         adfstat.yandex.ru
+0.0.0.0         ads-api.tiktok.com
+0.0.0.0         ads-api.twitter.com
+0.0.0.0         ads-dev.pinterest.com
+0.0.0.0         ads-sg.tiktok.com
+0.0.0.0         amc.yandex.ru
+0.0.0.0         an.yandex.ru
+0.0.0.0         appmetrica.yandex.ru
+0.0.0.0         log16-platform-ycru.tiktokv.com
+0.0.0.0         mc.yandex.ru
+# Мессенджер MAX — нежелательное приложение
+0.0.0.0         max.ru
+0.0.0.0         www.max.ru
+
+### Пояснения по IP-адресам:
+# 185.246.223.127 — Основной прокси-сервер
+# 204.12.192.219, 204.12.192.220, 204.12.192.221, 204.12.192.222 — Резервные прокси-серверы
+
+### Источники
+# Этот файл hosts собран на основе различных источников для обхода региональных блокировок.
+# https://raw.githubusercontent.com/ImMALWARE/dns.malw.link/master/hosts
+# https://4pda.to/forum/index.php?showtopic=1107326&view=findpost&p=137487009
+# Telegram-канал: https://t.me/immalware
+# Telegram-канал: https://t.me/sevcator
